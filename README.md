@@ -63,10 +63,10 @@
 
 ### 🌐 **Conecte-se comigo**
 <div align="center">
-  <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/pablo-martins-02bb81326/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/seu-instagram" target="_blank">
+  <a href="https://www.instagram.com/pablo.martin031?igsh=MW9lN2VnMDg5ZHRudA%3D%3D&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://github.com/PabloMartins031" target="_blank">
