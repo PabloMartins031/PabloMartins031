@@ -45,6 +45,7 @@
 ---
 
 ## 🚀 Skills
+## 🚀 Skills
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5"  />
@@ -57,6 +58,7 @@
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git"  />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" height="40" alt="Linux"  />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" height="40" alt="GitHub"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
 </div>
 
 ---
