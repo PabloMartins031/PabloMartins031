@@ -54,7 +54,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"  />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" height="40" alt="MySQL"  />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js"  />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="Bootstrap"  />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git"  />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" height="40" alt="Linux"  />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" height="40" alt="GitHub"  />
