@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td>
-      <img src="pablo(assets)/banner1.webp" width="400" alt="Banner perfil">
+      <img src="pablo(assets)/banner3.webp" width="400" alt="Banner perfil">
     </td>
     <td>
       <h3>Sobre mim</h3>
