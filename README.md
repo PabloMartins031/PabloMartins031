@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="800" alt="banner principal" src="pablo(assets)/banner2.webp" />
+  <img width="800" alt="banner principal" src="pablo(assets)/bannerprincipal.png" />
 </div>
 
 <hr>
