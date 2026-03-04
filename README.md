@@ -10,13 +10,13 @@
       <img src="pablo(assets)/banner3.jpg" width="400" alt="Banner perfil">
     </td>
     <td>
-      <h3>Sobre mim</h3>
-      <strong>Pablo Martins</strong><br>
-      Ambientes serenos, mente focada, atitude intensa.<br>
-      Inspirado pela estética oriental — preto, vermelho e chuva — busco disciplina, equilíbrio e evolução em tudo que faço.<br>
-      Transformo desafios em aprendizado e compartilho experiências para inspirar quem também busca crescer.<br>
-      <strong>Explore, conecte-se e mantenha o foco: o caminho é feito de propósito!</strong>
-    </td>
+    <h3>Sobre mim</h3>
+    <strong>Pablo Martins</strong><br>
+    Ambientes serenos, mente focada, atitude intensa.<br>
+    Inspirado pela estética oriental — preto, vermelho e chuva — busco disciplina, equilíbrio e evolução em tudo que faço, guiado pelo Shu-Ha-Ri na jornada de aprendizado e pelo Kaizen na melhoria contínua.<br>
+    Transformo desafios em aprendizado e compartilho experiências para inspirar quem também busca crescer.<br>
+    <strong>Explore, conecte-se e mantenha o foco: o caminho é feito de propósito!</strong>
+</td>
   </tr>
 </table>
 
