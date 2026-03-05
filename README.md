@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="800" alt="banner principal" src="pablo(assets)/bannerprincipal.png" />
+  <img width="1000" alt="banner principal" src="pablo(assets)/bannerprincipal.png" />
 </div>
 
 <hr>
@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td>
-      <img src="pablo(assets)/banner3.jpg" width="600" alt="Banner perfil">
+      <img src="pablo(assets)/banner3.jpg" width="700" alt="Banner perfil">
     </td>
     <td>
     <h3>Sobre mim</h3>
