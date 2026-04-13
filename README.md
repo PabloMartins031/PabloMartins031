@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td>
-      <img src="pablo(assets)/banner3.jpg" width="700" alt="Banner perfil">
+      <img src="pablo(assets)/banner3.jpg" width="800" alt="Banner perfil">
     </td>
     <td>
     <h3>Sobre mim</h3>
