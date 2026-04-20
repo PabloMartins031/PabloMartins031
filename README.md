@@ -54,6 +54,7 @@ Tenho como base a disciplina do **Kaizen (melhoria contínua)** e o conceito **S
 ### ⚙️ Back-end
 <div>
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40"/>
+  <img src="https://cdn.simpleicons.org/fastapi/339933%22" height="40"/>
 </div>
 
 ### 🗄️ Banco de Dados
