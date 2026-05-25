@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1000" alt="banner principal" src="pablo(assets)/bannerprincipal.png" />
+  <img width="1000" alt="banner principal" src="pablo(assets)/ChatGPT Image 25 de mai. de 2026, 14_53_32" />
 </div>
 
 ---
