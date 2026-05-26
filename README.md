@@ -13,7 +13,7 @@
 
 ## 👨‍💻 Sobre mim
 
-<img align="right" src="pablo(assets)/banner3.jpg" width="300" alt="Banner perfil">
+<img align="right" src="pablo(assets)/novabanner.jpg" width="300" alt="Banner perfil">
 
 **Pablo Martins**  
 
