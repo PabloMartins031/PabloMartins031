@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1000" alt="banner principal" src="pablo(assets)/Samuraicyber.png" />
+  <img width="1000" alt="banner principal" src="pablo(assets)/Samuraicyber2.0.png" />
 </div>
 
 ---
