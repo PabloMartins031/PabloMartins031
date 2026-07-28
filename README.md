@@ -38,36 +38,57 @@ Tenho como base a disciplina do **Kaizen (melhoria contínua)** e o conceito **S
 
 ## 🚀 Skills
 
-### 💻 Linguagens
-<div>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-</div>
+<div align="center">
 
-### 🌐 Front-end
-<div>
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="40"/>
-</div>
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 💻 Linguagens
+
+<img src="https://skillicons.dev/icons?i=js,python,java" />
+
+</td>
+
+<td align="center" width="50%">
 
 ### ⚙️ Back-end
-<div>
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40"/>
-  <img src="https://cdn.simpleicons.org/fastapi/339933%22" height="40"/>
-  <img src="https://cdn.simpleicons.org/flask/F7DF1E" width="40">
-</div>
+
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🌐 Front-end
+
+<img src="https://skillicons.dev/icons?i=html,css" />
+
+</td>
+
+<td align="center">
 
 ### 🗄️ Banco de Dados
-<div>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" height="40"/>
-</div>
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
 
 ### 🛠️ Ferramentas
-<div>
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" height="40"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" height="40"/>
+
+<img src="https://skillicons.dev/icons?i=git,github,linux" />
+
+</td>
+</tr>
+
+</table>
+
 </div>
 
 ---
